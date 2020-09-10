@@ -1,0 +1,11 @@
+body{
+    background-color: cornflowerblue;
+}
+/*class based*/
+.style-body{
+    background-color: darkgreen;
+}
+/*ID based*/
+#body_style{
+    background-color: crimson;
+}
